@@ -20,9 +20,7 @@ Interactive and easy-to-understand dashboards were created to present the player
 
 📸 Sample Visualizations
 
-Role	Snapshot
-
-All Rounders	![AllRounderAnalysis](https://github.com/user-attachments/assets/bc66e5b5-dcbf-40a4-a4f2-b03625f0e0c5)
+All Rounders ![AllRounderAnalysis](https://github.com/user-attachments/assets/bc66e5b5-dcbf-40a4-a4f2-b03625f0e0c5)
 
 Anchors	![AnchorsAnalysis](https://github.com/user-attachments/assets/90b2e1ce-7116-413f-9909-513ea6dd6ba2)
 
