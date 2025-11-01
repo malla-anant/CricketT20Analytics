@@ -1,6 +1,6 @@
 🏏 Cricket Best 11 - Power BI Analysis
 
-[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)]()
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/groups/me/reports/c4bf2730-f460-4cc8-a499-b6bdd04dcd53/ReportSectionddd36287ad29b36004c1?experience=power-bi)
 
 Welcome to the Cricket Best 11 project!
 This repository presents a comprehensive Power BI data analysis of cricket players to identify and select the ultimate playing XI based on role-specific performance metrics.
