@@ -107,11 +107,6 @@ Power BI dashboards provided an intuitive way to analyze player performance.
 
 Transparent and quantifiable process for selecting the Best XI.
 
-🗂️ Project Files
-File Name	Description
-Cricket_Best_11.pbix	Main Power BI file containing dashboards
-Player_Performance_Data.xlsx	Dataset used for analysis
-README.md	Project documentation
 ⭐ Acknowledgements
 
 Special thanks to the cricket analytics community for inspiration and resources.
